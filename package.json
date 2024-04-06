@@ -1,0 +1,25 @@
+{
+  "name": "text-vue-mix",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.74",
+    "@types/react-dom": "^18.2.24",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0",
+    "vue-tsc": "^2.0.6"
+  }
+}
