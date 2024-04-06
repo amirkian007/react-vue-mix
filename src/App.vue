@@ -1,17 +1,18 @@
 <script setup lang="ts">
-import HelloWorld from './components/VueComponent.vue'
+import VueComponent from './components/VueComponent.vue'
 </script>
 
 <template>
   <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
+    <a href="https://vuejs.org/" target="_blank">
+      <img src="./assets/react.svg" class="logo vue" alt="Vue logo" />
     </a>
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <h1>React + Vue</h1>
+  <VueComponent />
 </template>
 
 <style scoped>
@@ -28,4 +29,3 @@ import HelloWorld from './components/VueComponent.vue'
   filter: drop-shadow(0 0 2em #42b883aa);
 }
 </style>
-./components/VueComponent.vue
