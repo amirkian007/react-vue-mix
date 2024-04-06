@@ -1,9 +1,5 @@
-# Vue 3 + TypeScript + Vite
+# Vue 3 + React
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<img src="https://github.com/amirkian007/react-vue-mix/blob/main/public/ReactVueMix.png" alt="full-event-calendar" width="420px" >
 
-## Recommended Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
-
-- Use [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc) for performing the same type checking from the command line, or for generating d.ts files for SFCs.
+This is a project for testing react and vue nesting .
